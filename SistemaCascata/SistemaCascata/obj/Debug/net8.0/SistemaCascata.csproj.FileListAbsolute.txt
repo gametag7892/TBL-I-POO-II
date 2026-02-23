@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\obj\Debug\net8.0\SistemaCascata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\obj\Debug\net8.0\SistemaCascata.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\obj\Debug\net8.0\SistemaCascata.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\obj\Debug\net8.0\SistemaCascata.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\bin\Debug\net8.0\SistemaCascata.exe
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\bin\Debug\net8.0\SistemaCascata.deps.json
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\bin\Debug\net8.0\SistemaCascata.runtimeconfig.json
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\bin\Debug\net8.0\SistemaCascata.dll
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\bin\Debug\net8.0\SistemaCascata.pdb
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\obj\Debug\net8.0\SistemaCascata.dll
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\obj\Debug\net8.0\refint\SistemaCascata.dll
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\obj\Debug\net8.0\SistemaCascata.pdb
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\obj\Debug\net8.0\SistemaCascata.genruntimeconfig.cache
+C:\Users\Eduardo\Documents\POO II\Roteiro I\SistemaCascata\SistemaCascata\obj\Debug\net8.0\ref\SistemaCascata.dll
